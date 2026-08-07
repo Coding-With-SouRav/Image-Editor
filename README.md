@@ -89,5 +89,3 @@ The editor combines professional-grade features with an accessible interface, su
 ![Screenshot 2025-07-03 113632](https://github.com/user-attachments/assets/66420e8e-2431-4f70-96e1-fb4ebfe48e5d)
 
 
-<!-- AUTO UPDATE -->
-Last maintenance: 2026-08-06 06:44 UTC
